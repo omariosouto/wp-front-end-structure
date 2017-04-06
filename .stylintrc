@@ -1,0 +1,7 @@
+{
+	"brackets": "never",
+	"namingConvention": "BEM",
+	"namingConventionStrict": true,
+	"semicolons": "never",
+	"noImportant": true
+}
